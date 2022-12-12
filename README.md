@@ -5,3 +5,7 @@ I am a EE undergraduate at the **University of California, San Diego (UCSD)** wi
 - 🔭 I’m currently working on a [IoT Geologger Device](https://github.com/kendrick010/car_geo_logger)
 - 🌱 I’m currently learning DSAs through an interactive [Stepik](https://stepik.org/579) course
 - 📫 How to reach me: ken010@ucsd.edu
+
+### Technologies & Tools ⚙️
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
