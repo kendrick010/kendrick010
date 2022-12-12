@@ -7,3 +7,8 @@ I am a EE undergraduate at the **University of California, San Diego (UCSD)** wi
 - 📫 How to reach me: ken010@ucsd.edu
 
 ### Technologies & Tools ⚙️
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,python,js,mysql,postgres,git,vscode,matlab)](https://skillicons.dev) 
+
+### Stats 📈
+<img src="https://github-readme-stats.vercel.app/api?username=kendrick010&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kendrick010&layout=compact&theme=dark"/>
