@@ -7,5 +7,3 @@ I am a EE undergraduate at the **University of California, San Diego (UCSD)** wi
 - 📫 How to reach me: ken010@ucsd.edu
 
 ### Technologies & Tools ⚙️
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
