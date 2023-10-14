@@ -51,5 +51,10 @@ Some projects I am currently working and planning as of 2023-2024:
             <td>Personal</td>
             <td><button style="background-color: #d93c4c; border: none; color: white; border-radius: 2px;" disabled>Planned</button></td>
         </tr>
+        <tr>
+            <td>Learning COW, an esoteric programming language</td>
+            <td>Personal</td>
+            <td><button style="background-color: #d93c4c; border: none; color: white; border-radius: 2px;" disabled>Planned</button></td>
+        </tr>
     </tbody>
 </table>
